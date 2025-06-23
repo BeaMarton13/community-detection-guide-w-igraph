@@ -1,4 +1,4 @@
-# community-detection-guide-w-igraph
+# Community detection guide with igraph
 
 Welcome to the Community Detection Guide! This repository offers an interactive journey into the fascinating world of community detection using the powerful igraph library.
 
