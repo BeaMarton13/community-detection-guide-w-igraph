@@ -8,7 +8,7 @@ This work is divided into several chapters, each designed for hands-on explorati
 This chapter provides a foundational understanding of community detection in networks, explaining core concepts like nodes, edges, and what constitutes a community. It then details various metrics for evaluating community quality and offers an in-depth look at `python-igraph`'s community detection algorithms, categorizing them by approach and outlining their suitability, strengths, and weaknesses for different network types.
 
 
-### [Chapter 1: Generating and Visualizing Clusters](https://mybinder.org/v2/gh/BeaMarton13/community-detection-guide-w-igraph/HEAD?urlpath=%2Fdoc%2Ftree%2Fnotebooks%2Fgenerating_and_visualizing_clusters.ipynb)
+### [Chapter 2: Generating and Visualizing Clusters](https://mybinder.org/v2/gh/BeaMarton13/community-detection-guide-w-igraph/HEAD?urlpath=%2Fdoc%2Ftree%2Fnotebooks%2Fgenerating_and_visualizing_clusters.ipynb)
 Ready to get started with community detection? This chapter walks you through the process of generating and visualizing clusters within network data.
 
 
