@@ -17,3 +17,6 @@ This chapter explores how real-world community detection methods, as described p
 
 ### [Chapter N - TODO: UPDATE IT LATER: Les Miserables Network Clustering](https://mybinder.org/v2/gh/BeaMarton13/community-detection-guide-w-igraph/HEAD?urlpath=%2Fdoc%2Ftree%2Fnotebooks%2Fles_miserables.ipynb)
 This chapter explores how real-world community detection methods, as described previously, can uncover the inherent social structures and groups formed by characters based on their interactions. By analyzing these relationships, we gain deeper insights into the organizational dynamics within the network of [Les Miserables](https://websites.umich.edu/~mejn/netdata/).
+
+### [Chapter N - TODO: UPDATE IT LATER: Resolution parameter](https://mybinder.org/v2/gh/BeaMarton13/community-detection-guide-w-igraph/HEAD?urlpath=%2Fdoc%2Ftree%2Fnotebooks%2Finteractive_resolution_on_sierpinski.ipynb)
+#### _IMPORTANT_ this is not working yei in binder
